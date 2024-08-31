@@ -1,0 +1,4 @@
+[INFO] 27-07-2024 15:25:08 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:26)] - Edge driver is opened
+[INFO] 27-07-2024 15:25:09 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:28)] - page is redirected to the URL
+[INFO] 27-07-2024 15:25:09 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test caseClickOnCartIconStarted
+[INFO] 27-07-2024 15:25:10 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test caseClickOnCartIconpassed

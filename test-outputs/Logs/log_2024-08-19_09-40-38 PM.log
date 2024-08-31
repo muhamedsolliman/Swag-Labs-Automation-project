@@ -1,0 +1,23 @@
+[INFO] 19-08-2024 21:40:38 [main] [Tests.TC02_LandingTest.Login(TC02_LandingTest.java:29)] - Edge driver is opened
+[INFO] 19-08-2024 21:40:39 [main] [Tests.TC02_LandingTest.Login(TC02_LandingTest.java:31)] - page is redirected to the URL
+[INFO] 19-08-2024 21:40:44 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:41)] - Edge driver is opened
+[INFO] 19-08-2024 21:40:45 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:43)] - page is redirected to the URL
+[INFO] 19-08-2024 21:40:45 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test caseCheckingNumberOfSelectedProductsStarted
+[INFO] 19-08-2024 21:40:46 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:36)] - Number of all products0
+[ERROR] 19-08-2024 21:40:51 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:49)] - Expected condition failed: waiting for visibility of element located by By.className: shopping_cart_badge (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 127.0.2651.105, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63885}, msedge: {msedgedriverVersion: 127.0.2651.105 (e2354f41f84..., userDataDir: C:\Users\lapshop\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63885/devtoo..., se:cdpVersion: 127.0.2651.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 04b7d6c4e1dce10b3fa7f7d32830147d
+[INFO] 19-08-2024 21:40:51 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - Selected products:0
+[INFO] 19-08-2024 21:40:51 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test caseCheckingNumberOfSelectedProductspassed
+[INFO] 19-08-2024 21:40:54 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:41)] - Edge driver is opened
+[INFO] 19-08-2024 21:40:55 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:43)] - page is redirected to the URL
+[INFO] 19-08-2024 21:40:56 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test caseClickOnCartIconStarted
+[INFO] 19-08-2024 21:41:01 [main] [Listeners.IinvokedMethodListenerClass.afterInvocation(IinvokedMethodListenerClass.java:32)] - Test case ClickOnCartIconfailed
+[INFO] 19-08-2024 21:41:05 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:41)] - Edge driver is opened
+[INFO] 19-08-2024 21:41:06 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:43)] - page is redirected to the URL
+[INFO] 19-08-2024 21:41:06 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test caseaddingRandomProductsToCartTCStarted
+[INFO] 19-08-2024 21:41:06 [main] [Pages.P02_LandingPage.addingRandomProducts(P02_LandingPage.java:66)] - randomNumber1
+[INFO] 19-08-2024 21:41:12 [main] [Listeners.IinvokedMethodListenerClass.afterInvocation(IinvokedMethodListenerClass.java:32)] - Test case addingRandomProductsToCartTCfailed

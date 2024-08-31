@@ -1,0 +1,5 @@
+[INFO] 17-07-2024 21:27:41 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:22)] - Edge driver is opened
+[INFO] 17-07-2024 21:27:51 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:24)] - page is redirected to the URL
+[INFO] 17-07-2024 21:27:52 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:26)] - Number of all products6
+[INFO] 17-07-2024 21:27:54 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:36)] - Number of Products On Cart Icon 6
+[ERROR] 17-07-2024 21:27:54 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:49)] - Cannot invoke "java.util.List.size()" because "Pages.P02_LandingPage.SelectedProducts" is null

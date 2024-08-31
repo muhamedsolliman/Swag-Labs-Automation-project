@@ -1,0 +1,22 @@
+[INFO] 19-08-2024 21:46:03 [main] [Tests.TC02_LandingTest.Login(TC02_LandingTest.java:29)] - Edge driver is opened
+[INFO] 19-08-2024 21:46:04 [main] [Tests.TC02_LandingTest.Login(TC02_LandingTest.java:31)] - page is redirected to the URL
+[INFO] 19-08-2024 21:46:09 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:41)] - Edge driver is opened
+[INFO] 19-08-2024 21:46:10 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:43)] - page is redirected to the URL
+[INFO] 19-08-2024 21:46:11 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test caseCheckingNumberOfSelectedProductsStarted
+[INFO] 19-08-2024 21:46:11 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:36)] - Number of all products6
+[INFO] 19-08-2024 21:46:13 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:46)] - Number of Products On Cart Icon 6
+[INFO] 19-08-2024 21:46:13 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - Selected products:6
+[INFO] 19-08-2024 21:46:13 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test caseCheckingNumberOfSelectedProductspassed
+[INFO] 19-08-2024 21:46:16 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:41)] - Edge driver is opened
+[INFO] 19-08-2024 21:46:18 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:43)] - page is redirected to the URL
+[INFO] 19-08-2024 21:46:19 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test caseClickOnCartIconStarted
+[INFO] 19-08-2024 21:46:19 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test caseClickOnCartIconpassed
+[INFO] 19-08-2024 21:46:23 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:41)] - Edge driver is opened
+[INFO] 19-08-2024 21:46:24 [main] [Tests.TC02_LandingTest.Setup(TC02_LandingTest.java:43)] - page is redirected to the URL
+[INFO] 19-08-2024 21:46:25 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test caseaddingRandomProductsToCartTCStarted
+[INFO] 19-08-2024 21:46:25 [main] [Pages.P02_LandingPage.addingRandomProducts(P02_LandingPage.java:66)] - randomNumber2
+[INFO] 19-08-2024 21:46:25 [main] [Pages.P02_LandingPage.addingRandomProducts(P02_LandingPage.java:66)] - randomNumber3
+[INFO] 19-08-2024 21:46:25 [main] [Pages.P02_LandingPage.addingRandomProducts(P02_LandingPage.java:66)] - randomNumber4
+[INFO] 19-08-2024 21:46:26 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:46)] - Number of Products On Cart Icon 3
+[INFO] 19-08-2024 21:46:26 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - Selected products:3
+[INFO] 19-08-2024 21:46:26 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test caseaddingRandomProductsToCartTCpassed

@@ -1,0 +1,9 @@
+[INFO] 09-08-2024 15:45:44 [main] [Tests.TC05_OverviewTest.Setup(TC05_OverviewTest.java:29)] - Edge driver is opened
+[INFO] 09-08-2024 15:45:49 [main] [Tests.TC05_OverviewTest.Setup(TC05_OverviewTest.java:31)] - page is redirected to the URL
+[INFO] 09-08-2024 15:45:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test casecheckoutStepTwoTCStarted
+[INFO] 09-08-2024 15:45:50 [main] [Pages.P02_LandingPage.addingRandomProducts(P02_LandingPage.java:66)] - randomNumber2
+[INFO] 09-08-2024 15:45:50 [main] [Pages.P02_LandingPage.addingRandomProducts(P02_LandingPage.java:66)] - randomNumber6
+[INFO] 09-08-2024 15:45:52 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:42)] - ftest-2024-45-09-3-45-38PM ltest-2024-45-09-3-45-38PM 79061
+[INFO] 09-08-2024 15:45:52 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:30)] - Calculated Total price:28.06
+[INFO] 09-08-2024 15:45:52 [main] [Pages.P05_OverviewPage.getTotal(P05_OverviewPage.java:26)] - Actual Total price:28.06
+[INFO] 09-08-2024 15:45:52 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test casecheckoutStepTwoTCpassed
