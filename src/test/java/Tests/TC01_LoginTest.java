@@ -18,7 +18,7 @@ import static DriverFactory.DriverFactory.*;
 import static Utilities.DataUtils.getPropertyValue;
 @Listeners({IinvokedMethodListenerClass.class,ITestResultListenerClass.class})
 public class TC01_LoginTest {
- @BeforeMethod
+ @BeforeMethod(alwaysRun = true)
  public void Setup() throws IOException {
      //condition ? true : false
      String browser = System.getProperty("browser")!= null ? System.getProperty("browser"):getPropertyValue("enviroments","Browser");
