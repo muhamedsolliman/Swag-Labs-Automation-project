@@ -61,7 +61,7 @@ new P02_LandingPage(getDriver()).addAllProductsToCart();
         Assert.assertTrue(VerifyURL(getDriver(),DataUtils.getPropertyValue("enviroments","Cart_URL")));
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit(){
         QuitDriver();
     }
